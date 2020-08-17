@@ -1,2 +1,2 @@
 # robust_webscraping
-Robust Web Scraping with Proxies using Selenium and Beautiful Soup 2020
+Robust Web Scraping with Proxies using Selenium, Beautiful Soup, and Requests, 2020
