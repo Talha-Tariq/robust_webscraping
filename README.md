@@ -1,5 +1,5 @@
 # robust_webscraping
-## Robust Web Scraping with Proxies using Selenium, Beautiful Soup, and Requests, 2020
+## Robust Web Scraping with Proxies using Selenium and Requests, 2020
 
 This repository contains Python Notebooks that can help your web scraping endeavours while using proxies. These proxies are anonymous and use the HTTPS protocol, so you can be confident that your true IP address and any sensitive information being exchanged will be hidden.
 
@@ -19,3 +19,6 @@ Follow the Notebook named 'scraping_proxies.ipynb' to best understand how this l
 
 ### Robust web surfing with Selenium
 The Notebook named 'robust_selenium' can help you better understand how to surf the web with rotating proxies using selenium. This Notebook is built on top of the 'scraping_proxies' Notebook. 
+
+### Robust downloading with Requests
+The Notebook named 'robust_requests' can help you better understand how to download webpages with rotating proxies using requests. This Notebook is built on top of the 'scraping_proxies' Notebook. 
