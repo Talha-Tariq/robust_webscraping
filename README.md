@@ -17,3 +17,5 @@ These proxies are FREE proxies and will be scraped using the 'proxyscrape' libra
 
 Follow the Notebook named 'scraping_proxies.ipynb' to best understand how this library can be used.   
 
+### Robust web surfing with Selenium
+The Notebook named 'robust_selenium' can help you better understand how to surf the web with rotating proxies using selenium. This Notebook is built on top of the 'scraping_proxies' Notebook. 
